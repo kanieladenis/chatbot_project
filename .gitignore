@@ -1,0 +1,10 @@
+env.py
+*.ipynb_checkpoints/
+*__pycache__/
+*.DS_Store
+*.csv
+*.zip
+*.pkl
+*.tar
+*.gz
+*.pdf
